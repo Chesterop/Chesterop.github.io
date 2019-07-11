@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[第一篇文章]]></title>
-    <url>%2F2019%2F07%2F11%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[测试Hello World]]></content>
+    <title><![CDATA[Next主题美化排坑笔记]]></title>
+    <url>%2F2019%2F07%2F11%2Fsecond%2F</url>
+    <content type="text"><![CDATA[Hexo主题排坑笔记一.由来 在自己电脑利用github和hexo搭建博客之后,设置了Next主题,美化之后在网上搜的博客中有些教程已经不能用了,所以记录下来 Next主题版本问题 阅读推荐问题 站点字数、阅读时间统计功能 Next官网文档]]></content>
       <categories>
-        <category>测试</category>
+        <category>Hexo</category>
       </categories>
       <tags>
-        <tag>Java</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[聊聊写博客]]></title>
+    <url>%2F2019%2F07%2F11%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[写博客 今天终于也有自己博客了,其实很久之前就一直想自己创建一个博客但是担心自己写作能力不好,像我之前朋友写一篇文章要写完自己反复阅读,构思 ，推敲。老实说我觉得很麻烦，因为我语言表达能力不强，技术积累不到家，当初放弃了写博客这种想法。 ##改变 但是在往后学习技术的时候慢慢发现，有些时候写博客是对知识系统的认识和积累。发现自己不足和更好的说法，当把文章写出来，挂到博客上，被人看见之后，很有可能从别人的反馈中得到更优解或错误的地方，所以写博客，收益的不只是别人，还有自己 ##博客目的 提高自己写作技术文章水平能力 坚持写博客 给自己留下思考空间 给自己鼓气加油 ！:)]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
       </tags>
   </entry>
 </search>
